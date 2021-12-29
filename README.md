@@ -3,7 +3,7 @@
 
 Çiçeksepeti'nde comment işleminde kullanılan API  için;
 
-* https://www.getpostman.com/collections/c0a484250e8d7efbafa0  POSTMAN collection'ında bulunan API için cityName parametresine göre dönen response'da,
+* https://www.getpostman.com/collections/b668e69a73698144c1ca  POSTMAN collection'ında bulunan API için cityName parametresine göre dönen response'da,
 
 * cityName değerlerinin kontrolü için entegrasyon testi yazılması,
 
